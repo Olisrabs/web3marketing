@@ -776,46 +776,57 @@
                      <div role="list" class="blog-articles w-dyn-items">
                         <div role="listitem" class="w-dyn-item">
                            <div class="blog-article-content"><a aria-label="Article Cover Link"
-                                 href="article/the-state-of-ecosystem-growth-in-2025-key-insights-from-the-lunar-strategy-research-report"
+                                 href="article/marketing-tools.php"
                                  class="blog-article-cover w-inline-block">
                                  <div class="blog-article-cover-100x100"><img
-                                       src="https://cdn.prod.website-files.com/686236f7ccb10b3cf0706b50/68691664ff1f7d83627eb06a_Cover%20_%20463x265.webp"
+                                       src="assets/img/blog/marketing-tools.webp"
                                        loading="lazy" alt="" class="image" /></div>
                               </a>
                               <div class="blog-text-block">
-                                 <div class="neue-15px-regular-light-grey-100">Apr 25, 2025</div>
-                                 <h3 class="neue-20x15px-normal-black-125">The State of Ecosystem Growth in 2025: Key
-                                    Insights from the Lunar Strategy Research Report</h3>
+                                 <div class="neue-15px-regular-light-grey-100">Mar 18, 2025</div>
+                                 <h3 class="neue-20x15px-normal-black-125">25 Must-Have Tools for Web3 Marketers in 2025</h3>
                               </div>
                            </div>
                         </div>
                         <div role="listitem" class="w-dyn-item">
                            <div class="blog-article-content"><a aria-label="Article Cover Link"
-                                 href="article/ai-agents-defi-the-defai-future-powering-finance-in-2025-beyond"
+                                 href="article/financial-future.php"
                                  class="blog-article-cover w-inline-block">
                                  <div class="blog-article-cover-100x100"><img
-                                       src="https://cdn.prod.website-files.com/686236f7ccb10b3cf0706b50/6869159ab02d79db5ca7fc5e_Cover%20_%20463x265.webp"
+                                       src="assets/img/blog/financial-future.webp"
                                        loading="lazy" alt="" class="image" /></div>
                               </a>
                               <div class="blog-text-block">
-                                 <div class="neue-15px-regular-light-grey-100">Apr 23, 2025</div>
-                                 <h3 class="neue-20x15px-normal-black-125">AI Agents &amp; DeFi: The DefAI Future
-                                    Powering Finance in 2025 &amp; Beyond!</h3>
+                                 <div class="neue-15px-regular-light-grey-100">Nov 23, 2023</div>
+                                 <h3 class="neue-20x15px-normal-black-125">The Financial Future of Nigeria : Can Blockchain Be the Key to Inclusion?</h3>
                               </div>
                            </div>
                         </div>
                         <div role="listitem" class="w-dyn-item">
                            <div class="blog-article-content"><a aria-label="Article Cover Link"
-                                 href="article/how-to-avoid-a-flopped-tge-building-a-solid-foundation-for-success"
+                                 href="article/marketing-career.php"
                                  class="blog-article-cover w-inline-block">
                                  <div class="blog-article-cover-100x100"><img
-                                       src="https://cdn.prod.website-files.com/686236f7ccb10b3cf0706b50/686914fdd72eee28af1cffbc_Cover%20_%20463x265.webp"
+                                       src="assets/img/blog/marketing-career.webp"
                                        loading="lazy" alt="" class="image" /></div>
                               </a>
                               <div class="blog-text-block">
-                                 <div class="neue-15px-regular-light-grey-100">Apr 23, 2025</div>
-                                 <h3 class="neue-20x15px-normal-black-125">How to Avoid a Flopped TGE: Building a Solid
-                                    Foundation for Success</h3>
+                                 <div class="neue-15px-regular-light-grey-100">Jan 12, 2025</div>
+                                 <h3 class="neue-20x15px-normal-black-125">How to start a Web3 marketing career in 2025: A practical Guide for Beginners</h3>
+                              </div>
+                           </div>
+                        </div>
+                        <div role="listitem" class="w-dyn-item">
+                           <div class="blog-article-content"><a aria-label="Article Cover Link"
+                                 href="article/web3.php"
+                                 class="blog-article-cover w-inline-block">
+                                 <div class="blog-article-cover-100x100"><img
+                                       src="assets/img/blog/web3.webp"
+                                       loading="lazy" alt="" class="image" /></div>
+                              </a>
+                              <div class="blog-text-block">
+                                 <div class="neue-15px-regular-light-grey-100">Nov 23, 2023</div>
+                                 <h3 class="neue-20x15px-normal-black-125">CRAFTING AN IRRESTIBLE CONTENT STRATEGY FOR YOUR WEB3 COMMUNITY</h3>
                               </div>
                            </div>
                         </div>
